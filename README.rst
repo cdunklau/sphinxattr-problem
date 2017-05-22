@@ -11,7 +11,20 @@ docstring...  what gives?
 The below output shows the sphinx warnings about missing reference targets, and
 the full sphinx output is in full-sphinx-output.txt at the root of the repo.
 
-Setup and result::
+
+Setup commands::
+
+    # I'm using python 3.5, but i suspect it will work on any python 3 that
+    # Sphinx supports.
+    git clone https://github.com/cdunklau/sphinxattrissue.git
+    python3 -m venv venv
+    venv/bin/pip install sphinx sphinxcontrib-napoleon
+    # And run it
+    rm docs/_build/ -rf && SPHINXBUILD=`pwd`/venv/bin/sphinx-build make -e -C docs html 
+    # Check out the links in docs/_build/html/prose.html
+    xdg-open file:///`pwd`/docs/_build/html/prose.html
+
+Setup result::
 
     cdunklau@krusty:~/Development/sphinxattrissue$ python3 -V
     Python 3.5.3
