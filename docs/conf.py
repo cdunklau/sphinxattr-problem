@@ -34,8 +34,8 @@ import mypkg
 # ones.
 extensions = [
     'sphinx.ext.autodoc',
-    'sphinx.ext.intersphinx',
-    'sphinx.ext.todo',
+    #'sphinx.ext.intersphinx',
+    #'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.napoleon',
 ]
@@ -82,7 +82,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 pygments_style = 'sphinx'
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
-todo_include_todos = True
+#todo_include_todos = True
 
 
 # -- Options for autodoc ----------------------------------------------
@@ -190,10 +190,10 @@ epub_exclude_files = ['search.html']
 
 
 # Configuration for intersphinx
-intersphinx_mapping = {
-    'python': ('https://docs.python.org/3', None),
-    'requests': ('http://docs.python-requests.org/en/latest', None),
-}
+#intersphinx_mapping = {
+#    'python': ('https://docs.python.org/3', None),
+#    'requests': ('http://docs.python-requests.org/en/latest', None),
+#}
 
 
 # Configuration for napoleon
