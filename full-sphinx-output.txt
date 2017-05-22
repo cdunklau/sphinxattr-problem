@@ -11,8 +11,8 @@ making output directory...
 [app] adding config value: ('html_theme', 'alabaster', 'html')
 [app] adding config value: ('html_theme_path', [], 'html')
 [app] adding config value: ('html_theme_options', {}, 'html')
-[app] adding config value: ('html_title', <function setup.<locals>.<lambda> at 0x7f26b97b7620>, 'html', [<class 'str'>])
-[app] adding config value: ('html_short_title', <function setup.<locals>.<lambda> at 0x7f26b75ffbf8>, 'html')
+[app] adding config value: ('html_title', <function setup.<locals>.<lambda> at 0x7f302aa5d620>, 'html', [<class 'str'>])
+[app] adding config value: ('html_short_title', <function setup.<locals>.<lambda> at 0x7f30288a2620>, 'html')
 [app] adding config value: ('html_style', None, 'html', [<class 'str'>])
 [app] adding config value: ('html_logo', None, 'html', [<class 'str'>])
 [app] adding config value: ('html_favicon', None, 'html', [<class 'str'>])
@@ -44,21 +44,21 @@ making output directory...
 [app] adding config value: ('html_scaled_image_link', True, 'html')
 [app] adding config value: ('html_experimental_html5_writer', None, 'html')
 [app] adding builder: <class 'sphinx.builders.applehelp.AppleHelpBuilder'>
-[app] adding config value: ('applehelp_bundle_name', <function setup.<locals>.<lambda> at 0x7f26b75ffd90>, 'applehelp')
+[app] adding config value: ('applehelp_bundle_name', <function setup.<locals>.<lambda> at 0x7f30288a27b8>, 'applehelp')
 [app] adding config value: ('applehelp_bundle_id', None, 'applehelp', [<class 'str'>])
 [app] adding config value: ('applehelp_dev_region', 'en-us', 'applehelp')
 [app] adding config value: ('applehelp_bundle_version', '1', 'applehelp')
 [app] adding config value: ('applehelp_icon', None, 'applehelp', [<class 'str'>])
-[app] adding config value: ('applehelp_kb_product', <function setup.<locals>.<lambda> at 0x7f26b75ffe18>, 'applehelp')
+[app] adding config value: ('applehelp_kb_product', <function setup.<locals>.<lambda> at 0x7f30288a2840>, 'applehelp')
 [app] adding config value: ('applehelp_kb_url', None, 'applehelp', [<class 'str'>])
 [app] adding config value: ('applehelp_remote_url', None, 'applehelp', [<class 'str'>])
 [app] adding config value: ('applehelp_index_anchors', False, 'applehelp', [<class 'str'>])
 [app] adding config value: ('applehelp_min_term_length', None, 'applehelp', [<class 'str'>])
-[app] adding config value: ('applehelp_stopwords', <function setup.<locals>.<lambda> at 0x7f26b75ffc80>, 'applehelp')
-[app] adding config value: ('applehelp_locale', <function setup.<locals>.<lambda> at 0x7f26b75ffd08>, 'applehelp')
-[app] adding config value: ('applehelp_title', <function setup.<locals>.<lambda> at 0x7f26b75fff28>, 'applehelp')
-[app] adding config value: ('applehelp_codesign_identity', <function setup.<locals>.<lambda> at 0x7f26b75ffea0>, 'applehelp')
-[app] adding config value: ('applehelp_codesign_flags', <function setup.<locals>.<lambda> at 0x7f26b7601048>, 'applehelp')
+[app] adding config value: ('applehelp_stopwords', <function setup.<locals>.<lambda> at 0x7f30288a26a8>, 'applehelp')
+[app] adding config value: ('applehelp_locale', <function setup.<locals>.<lambda> at 0x7f30288a2730>, 'applehelp')
+[app] adding config value: ('applehelp_title', <function setup.<locals>.<lambda> at 0x7f30288a2950>, 'applehelp')
+[app] adding config value: ('applehelp_codesign_identity', <function setup.<locals>.<lambda> at 0x7f30288a28c8>, 'applehelp')
+[app] adding config value: ('applehelp_codesign_flags', <function setup.<locals>.<lambda> at 0x7f30288a29d8>, 'applehelp')
 [app] adding config value: ('applehelp_indexer_path', '/usr/bin/hiutil', 'applehelp')
 [app] adding config value: ('applehelp_codesign_path', '/usr/bin/codesign', 'applehelp')
 [app] adding config value: ('applehelp_disable_external_tools', False, None)
@@ -67,15 +67,15 @@ making output directory...
 [app] setting up extension: 'sphinx.builders.epub2'
 [app] setting up extension: 'sphinx.builders.html'
 [app] adding builder: <class 'sphinx.builders.epub2.Epub2Builder'>
-[app] connecting event 'builder-inited': <function emit_deprecation_warning at 0x7f26b76010d0> [id=0]
-[app] adding config value: ('epub_basename', <function setup.<locals>.<lambda> at 0x7f26b7624488>, None)
+[app] connecting event 'builder-inited': <function emit_deprecation_warning at 0x7f30288a2a60> [id=0]
+[app] adding config value: ('epub_basename', <function setup.<locals>.<lambda> at 0x7f30288a2ae8>, None)
 [app] adding config value: ('epub_theme', 'epub', 'html')
 [app] adding config value: ('epub_theme_options', {}, 'html')
-[app] adding config value: ('epub_title', <function setup.<locals>.<lambda> at 0x7f26b7601158>, 'html')
+[app] adding config value: ('epub_title', <function setup.<locals>.<lambda> at 0x7f30288cb048>, 'html')
 [app] adding config value: ('epub_author', 'unknown', 'html')
-[app] adding config value: ('epub_language', <function setup.<locals>.<lambda> at 0x7f26b762a378>, 'html')
+[app] adding config value: ('epub_language', <function setup.<locals>.<lambda> at 0x7f30288cbea0>, 'html')
 [app] adding config value: ('epub_publisher', 'unknown', 'html')
-[app] adding config value: ('epub_copyright', <function setup.<locals>.<lambda> at 0x7f26b762a400>, 'html')
+[app] adding config value: ('epub_copyright', <function setup.<locals>.<lambda> at 0x7f30288cbf28>, 'html')
 [app] adding config value: ('epub_identifier', 'unknown', 'html')
 [app] adding config value: ('epub_scheme', 'unknown', 'html')
 [app] adding config value: ('epub_uid', 'unknown', 'env')
@@ -90,17 +90,17 @@ making output directory...
 [app] adding config value: ('epub_fix_images', False, 'env')
 [app] adding config value: ('epub_max_image_width', 0, 'env')
 [app] adding config value: ('epub_show_urls', 'inline', 'html')
-[app] adding config value: ('epub_use_index', <function setup.<locals>.<lambda> at 0x7f26b762a488>, 'html')
+[app] adding config value: ('epub_use_index', <function setup.<locals>.<lambda> at 0x7f30288ce048>, 'html')
 [app] setting up extension: 'sphinx.builders.epub3'
 [app] setting up extension: 'sphinx.builders.epub2'
 [app] adding builder: <class 'sphinx.builders.epub3.Epub3Builder'>
 [app] adding config value: ('epub_description', 'unknown', 'epub3', [<class 'str'>])
 [app] adding config value: ('epub_contributor', 'unknown', 'epub3', [<class 'str'>])
-[app] adding config value: ('epub_writing_mode', 'horizontal', 'epub3', <sphinx.config.ENUM object at 0x7f26b7f88be0>)
+[app] adding config value: ('epub_writing_mode', 'horizontal', 'epub3', <sphinx.config.ENUM object at 0x7f302922dbe0>)
 [app] setting up extension: 'sphinx.builders.devhelp'
 [app] setting up extension: 'sphinx.builders.html'
 [app] adding builder: <class 'sphinx.builders.devhelp.DevhelpBuilder'>
-[app] adding config value: ('devhelp_basename', <function setup.<locals>.<lambda> at 0x7f26b762ad90>, None)
+[app] adding config value: ('devhelp_basename', <function setup.<locals>.<lambda> at 0x7f30288ceae8>, None)
 [app] setting up extension: 'sphinx.builders.dummy'
 [app] adding builder: <class 'sphinx.builders.dummy.DummyBuilder'>
 [app] setting up extension: 'sphinx.builders.gettext'
@@ -114,12 +114,12 @@ making output directory...
 [app] setting up extension: 'sphinx.builders.htmlhelp'
 [app] setting up extension: 'sphinx.builders.html'
 [app] adding builder: <class 'sphinx.builders.htmlhelp.HTMLHelpBuilder'>
-[app] adding config value: ('htmlhelp_basename', <function setup.<locals>.<lambda> at 0x7f26b762ae18>, None)
+[app] adding config value: ('htmlhelp_basename', <function setup.<locals>.<lambda> at 0x7f30288ceb70>, None)
 [app] setting up extension: 'sphinx.builders.latex'
 [app] adding builder: <class 'sphinx.builders.latex.LaTeXBuilder'>
-[app] connecting event 'builder-inited': <function validate_config_values at 0x7f26b75c7400> [id=1]
-[app] adding config value: ('latex_engine', <function default_latex_engine at 0x7f26b73549d8>, None, <sphinx.config.ENUM object at 0x7f26b76133c8>)
-[app] adding config value: ('latex_documents', <function setup.<locals>.<lambda> at 0x7f26b75c77b8>, None)
+[app] connecting event 'builder-inited': <function validate_config_values at 0x7f302887d158> [id=1]
+[app] adding config value: ('latex_engine', <function default_latex_engine at 0x7f30285fa9d8>, None, <sphinx.config.ENUM object at 0x7f30288b73c8>)
+[app] adding config value: ('latex_documents', <function setup.<locals>.<lambda> at 0x7f3028875a60>, None)
 [app] adding config value: ('latex_logo', None, None, [<class 'str'>])
 [app] adding config value: ('latex_appendices', [], None)
 [app] adding config value: ('latex_keep_old_macro_names', False, None)
@@ -130,7 +130,7 @@ making output directory...
 [app] adding config value: ('latex_show_pagerefs', False, None)
 [app] adding config value: ('latex_elements', {}, None)
 [app] adding config value: ('latex_additional_files', [], None)
-[app] adding config value: ('latex_docclass', <function default_latex_docclass at 0x7f26b7354a60>, None)
+[app] adding config value: ('latex_docclass', <function default_latex_docclass at 0x7f30285faa60>, None)
 [app] setting up extension: 'sphinx.builders.linkcheck'
 [app] adding builder: <class 'sphinx.builders.linkcheck.CheckExternalLinksBuilder'>
 [app] adding config value: ('linkcheck_ignore', [], None)
@@ -141,17 +141,17 @@ making output directory...
 [app] adding config value: ('linkcheck_anchors_ignore', ['^!'], None)
 [app] setting up extension: 'sphinx.builders.manpage'
 [app] adding builder: <class 'sphinx.builders.manpage.ManualPageBuilder'>
-[app] adding config value: ('man_pages', <function setup.<locals>.<lambda> at 0x7f26b7354c80>, None)
+[app] adding config value: ('man_pages', <function setup.<locals>.<lambda> at 0x7f30285fac80>, None)
 [app] adding config value: ('man_show_urls', False, None)
 [app] setting up extension: 'sphinx.builders.qthelp'
 [app] setting up extension: 'sphinx.builders.html'
 [app] adding builder: <class 'sphinx.builders.qthelp.QtHelpBuilder'>
-[app] adding config value: ('qthelp_basename', <function setup.<locals>.<lambda> at 0x7f26b7115048>, None)
+[app] adding config value: ('qthelp_basename', <function setup.<locals>.<lambda> at 0x7f30283b6048>, None)
 [app] adding config value: ('qthelp_theme', 'nonav', 'html')
 [app] adding config value: ('qthelp_theme_options', {}, 'html')
 [app] setting up extension: 'sphinx.builders.texinfo'
 [app] adding builder: <class 'sphinx.builders.texinfo.TexinfoBuilder'>
-[app] adding config value: ('texinfo_documents', <function setup.<locals>.<lambda> at 0x7f26b7115598>, None)
+[app] adding config value: ('texinfo_documents', <function setup.<locals>.<lambda> at 0x7f30283b6598>, None)
 [app] adding config value: ('texinfo_appendices', [], None)
 [app] adding config value: ('texinfo_elements', {}, None)
 [app] adding config value: ('texinfo_domain_indices', True, None, [<class 'list'>])
@@ -196,54 +196,54 @@ making output directory...
 [app] adding post transform: <class 'sphinx.transforms.post_transforms.images.DataURIExtractor'>
 [app] setting up extension: 'sphinx.environment.collectors.dependencies'
 [app] adding environment collector: <class 'sphinx.environment.collectors.dependencies.DependenciesCollector'>
-[app] connecting event 'doctree-read': <bound method DependenciesCollector.process_doc of <sphinx.environment.collectors.dependencies.DependenciesCollector object at 0x7f26b700e358>> [id=2]
-[app] connecting event 'env-merge-info': <bound method DependenciesCollector.merge_other of <sphinx.environment.collectors.dependencies.DependenciesCollector object at 0x7f26b700e358>> [id=3]
-[app] connecting event 'env-purge-doc': <bound method DependenciesCollector.clear_doc of <sphinx.environment.collectors.dependencies.DependenciesCollector object at 0x7f26b700e358>> [id=4]
-[app] connecting event 'env-get-updated': <bound method EnvironmentCollector.get_updated_docs of <sphinx.environment.collectors.dependencies.DependenciesCollector object at 0x7f26b700e358>> [id=5]
-[app] connecting event 'env-get-outdated': <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.dependencies.DependenciesCollector object at 0x7f26b700e358>> [id=6]
+[app] connecting event 'doctree-read': <bound method DependenciesCollector.process_doc of <sphinx.environment.collectors.dependencies.DependenciesCollector object at 0x7f30282b5320>> [id=2]
+[app] connecting event 'env-merge-info': <bound method DependenciesCollector.merge_other of <sphinx.environment.collectors.dependencies.DependenciesCollector object at 0x7f30282b5320>> [id=3]
+[app] connecting event 'env-purge-doc': <bound method DependenciesCollector.clear_doc of <sphinx.environment.collectors.dependencies.DependenciesCollector object at 0x7f30282b5320>> [id=4]
+[app] connecting event 'env-get-updated': <bound method EnvironmentCollector.get_updated_docs of <sphinx.environment.collectors.dependencies.DependenciesCollector object at 0x7f30282b5320>> [id=5]
+[app] connecting event 'env-get-outdated': <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.dependencies.DependenciesCollector object at 0x7f30282b5320>> [id=6]
 [app] setting up extension: 'sphinx.environment.collectors.asset'
 [app] adding environment collector: <class 'sphinx.environment.collectors.asset.ImageCollector'>
-[app] connecting event 'doctree-read': <bound method ImageCollector.process_doc of <sphinx.environment.collectors.asset.ImageCollector object at 0x7f26b701a1d0>> [id=7]
-[app] connecting event 'env-merge-info': <bound method ImageCollector.merge_other of <sphinx.environment.collectors.asset.ImageCollector object at 0x7f26b701a1d0>> [id=8]
-[app] connecting event 'env-purge-doc': <bound method ImageCollector.clear_doc of <sphinx.environment.collectors.asset.ImageCollector object at 0x7f26b701a1d0>> [id=9]
-[app] connecting event 'env-get-updated': <bound method EnvironmentCollector.get_updated_docs of <sphinx.environment.collectors.asset.ImageCollector object at 0x7f26b701a1d0>> [id=10]
-[app] connecting event 'env-get-outdated': <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.asset.ImageCollector object at 0x7f26b701a1d0>> [id=11]
+[app] connecting event 'doctree-read': <bound method ImageCollector.process_doc of <sphinx.environment.collectors.asset.ImageCollector object at 0x7f30282c1198>> [id=7]
+[app] connecting event 'env-merge-info': <bound method ImageCollector.merge_other of <sphinx.environment.collectors.asset.ImageCollector object at 0x7f30282c1198>> [id=8]
+[app] connecting event 'env-purge-doc': <bound method ImageCollector.clear_doc of <sphinx.environment.collectors.asset.ImageCollector object at 0x7f30282c1198>> [id=9]
+[app] connecting event 'env-get-updated': <bound method EnvironmentCollector.get_updated_docs of <sphinx.environment.collectors.asset.ImageCollector object at 0x7f30282c1198>> [id=10]
+[app] connecting event 'env-get-outdated': <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.asset.ImageCollector object at 0x7f30282c1198>> [id=11]
 [app] adding environment collector: <class 'sphinx.environment.collectors.asset.DownloadFileCollector'>
-[app] connecting event 'doctree-read': <bound method DownloadFileCollector.process_doc of <sphinx.environment.collectors.asset.DownloadFileCollector object at 0x7f26b701a208>> [id=12]
-[app] connecting event 'env-merge-info': <bound method DownloadFileCollector.merge_other of <sphinx.environment.collectors.asset.DownloadFileCollector object at 0x7f26b701a208>> [id=13]
-[app] connecting event 'env-purge-doc': <bound method DownloadFileCollector.clear_doc of <sphinx.environment.collectors.asset.DownloadFileCollector object at 0x7f26b701a208>> [id=14]
-[app] connecting event 'env-get-updated': <bound method EnvironmentCollector.get_updated_docs of <sphinx.environment.collectors.asset.DownloadFileCollector object at 0x7f26b701a208>> [id=15]
-[app] connecting event 'env-get-outdated': <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.asset.DownloadFileCollector object at 0x7f26b701a208>> [id=16]
+[app] connecting event 'doctree-read': <bound method DownloadFileCollector.process_doc of <sphinx.environment.collectors.asset.DownloadFileCollector object at 0x7f30282c11d0>> [id=12]
+[app] connecting event 'env-merge-info': <bound method DownloadFileCollector.merge_other of <sphinx.environment.collectors.asset.DownloadFileCollector object at 0x7f30282c11d0>> [id=13]
+[app] connecting event 'env-purge-doc': <bound method DownloadFileCollector.clear_doc of <sphinx.environment.collectors.asset.DownloadFileCollector object at 0x7f30282c11d0>> [id=14]
+[app] connecting event 'env-get-updated': <bound method EnvironmentCollector.get_updated_docs of <sphinx.environment.collectors.asset.DownloadFileCollector object at 0x7f30282c11d0>> [id=15]
+[app] connecting event 'env-get-outdated': <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.asset.DownloadFileCollector object at 0x7f30282c11d0>> [id=16]
 [app] setting up extension: 'sphinx.environment.collectors.metadata'
 [app] adding environment collector: <class 'sphinx.environment.collectors.metadata.MetadataCollector'>
-[app] connecting event 'doctree-read': <bound method MetadataCollector.process_doc of <sphinx.environment.collectors.metadata.MetadataCollector object at 0x7f26b701a7b8>> [id=17]
-[app] connecting event 'env-merge-info': <bound method MetadataCollector.merge_other of <sphinx.environment.collectors.metadata.MetadataCollector object at 0x7f26b701a7b8>> [id=18]
-[app] connecting event 'env-purge-doc': <bound method MetadataCollector.clear_doc of <sphinx.environment.collectors.metadata.MetadataCollector object at 0x7f26b701a7b8>> [id=19]
-[app] connecting event 'env-get-updated': <bound method EnvironmentCollector.get_updated_docs of <sphinx.environment.collectors.metadata.MetadataCollector object at 0x7f26b701a7b8>> [id=20]
-[app] connecting event 'env-get-outdated': <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.metadata.MetadataCollector object at 0x7f26b701a7b8>> [id=21]
+[app] connecting event 'doctree-read': <bound method MetadataCollector.process_doc of <sphinx.environment.collectors.metadata.MetadataCollector object at 0x7f30282c1780>> [id=17]
+[app] connecting event 'env-merge-info': <bound method MetadataCollector.merge_other of <sphinx.environment.collectors.metadata.MetadataCollector object at 0x7f30282c1780>> [id=18]
+[app] connecting event 'env-purge-doc': <bound method MetadataCollector.clear_doc of <sphinx.environment.collectors.metadata.MetadataCollector object at 0x7f30282c1780>> [id=19]
+[app] connecting event 'env-get-updated': <bound method EnvironmentCollector.get_updated_docs of <sphinx.environment.collectors.metadata.MetadataCollector object at 0x7f30282c1780>> [id=20]
+[app] connecting event 'env-get-outdated': <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.metadata.MetadataCollector object at 0x7f30282c1780>> [id=21]
 [app] setting up extension: 'sphinx.environment.collectors.title'
 [app] adding environment collector: <class 'sphinx.environment.collectors.title.TitleCollector'>
-[app] connecting event 'doctree-read': <bound method TitleCollector.process_doc of <sphinx.environment.collectors.title.TitleCollector object at 0x7f26b701a978>> [id=22]
-[app] connecting event 'env-merge-info': <bound method TitleCollector.merge_other of <sphinx.environment.collectors.title.TitleCollector object at 0x7f26b701a978>> [id=23]
-[app] connecting event 'env-purge-doc': <bound method TitleCollector.clear_doc of <sphinx.environment.collectors.title.TitleCollector object at 0x7f26b701a978>> [id=24]
-[app] connecting event 'env-get-updated': <bound method EnvironmentCollector.get_updated_docs of <sphinx.environment.collectors.title.TitleCollector object at 0x7f26b701a978>> [id=25]
-[app] connecting event 'env-get-outdated': <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.title.TitleCollector object at 0x7f26b701a978>> [id=26]
+[app] connecting event 'doctree-read': <bound method TitleCollector.process_doc of <sphinx.environment.collectors.title.TitleCollector object at 0x7f30282c1940>> [id=22]
+[app] connecting event 'env-merge-info': <bound method TitleCollector.merge_other of <sphinx.environment.collectors.title.TitleCollector object at 0x7f30282c1940>> [id=23]
+[app] connecting event 'env-purge-doc': <bound method TitleCollector.clear_doc of <sphinx.environment.collectors.title.TitleCollector object at 0x7f30282c1940>> [id=24]
+[app] connecting event 'env-get-updated': <bound method EnvironmentCollector.get_updated_docs of <sphinx.environment.collectors.title.TitleCollector object at 0x7f30282c1940>> [id=25]
+[app] connecting event 'env-get-outdated': <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.title.TitleCollector object at 0x7f30282c1940>> [id=26]
 [app] setting up extension: 'sphinx.environment.collectors.toctree'
 [app] adding environment collector: <class 'sphinx.environment.collectors.toctree.TocTreeCollector'>
-[app] connecting event 'doctree-read': <bound method TocTreeCollector.process_doc of <sphinx.environment.collectors.toctree.TocTreeCollector object at 0x7f26b701aac8>> [id=27]
-[app] connecting event 'env-merge-info': <bound method TocTreeCollector.merge_other of <sphinx.environment.collectors.toctree.TocTreeCollector object at 0x7f26b701aac8>> [id=28]
-[app] connecting event 'env-purge-doc': <bound method TocTreeCollector.clear_doc of <sphinx.environment.collectors.toctree.TocTreeCollector object at 0x7f26b701aac8>> [id=29]
-[app] connecting event 'env-get-updated': <bound method TocTreeCollector.get_updated_docs of <sphinx.environment.collectors.toctree.TocTreeCollector object at 0x7f26b701aac8>> [id=30]
-[app] connecting event 'env-get-outdated': <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.toctree.TocTreeCollector object at 0x7f26b701aac8>> [id=31]
+[app] connecting event 'doctree-read': <bound method TocTreeCollector.process_doc of <sphinx.environment.collectors.toctree.TocTreeCollector object at 0x7f30282c1a90>> [id=27]
+[app] connecting event 'env-merge-info': <bound method TocTreeCollector.merge_other of <sphinx.environment.collectors.toctree.TocTreeCollector object at 0x7f30282c1a90>> [id=28]
+[app] connecting event 'env-purge-doc': <bound method TocTreeCollector.clear_doc of <sphinx.environment.collectors.toctree.TocTreeCollector object at 0x7f30282c1a90>> [id=29]
+[app] connecting event 'env-get-updated': <bound method TocTreeCollector.get_updated_docs of <sphinx.environment.collectors.toctree.TocTreeCollector object at 0x7f30282c1a90>> [id=30]
+[app] connecting event 'env-get-outdated': <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.toctree.TocTreeCollector object at 0x7f30282c1a90>> [id=31]
 [app] setting up extension: 'sphinx.environment.collectors.indexentries'
 [app] adding environment collector: <class 'sphinx.environment.collectors.indexentries.IndexEntriesCollector'>
-[app] connecting event 'doctree-read': <bound method IndexEntriesCollector.process_doc of <sphinx.environment.collectors.indexentries.IndexEntriesCollector object at 0x7f26b701c048>> [id=32]
-[app] connecting event 'env-merge-info': <bound method IndexEntriesCollector.merge_other of <sphinx.environment.collectors.indexentries.IndexEntriesCollector object at 0x7f26b701c048>> [id=33]
-[app] connecting event 'env-purge-doc': <bound method IndexEntriesCollector.clear_doc of <sphinx.environment.collectors.indexentries.IndexEntriesCollector object at 0x7f26b701c048>> [id=34]
-[app] connecting event 'env-get-updated': <bound method EnvironmentCollector.get_updated_docs of <sphinx.environment.collectors.indexentries.IndexEntriesCollector object at 0x7f26b701c048>> [id=35]
-[app] connecting event 'env-get-outdated': <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.indexentries.IndexEntriesCollector object at 0x7f26b701c048>> [id=36]
+[app] connecting event 'doctree-read': <bound method IndexEntriesCollector.process_doc of <sphinx.environment.collectors.indexentries.IndexEntriesCollector object at 0x7f30282c1fd0>> [id=32]
+[app] connecting event 'env-merge-info': <bound method IndexEntriesCollector.merge_other of <sphinx.environment.collectors.indexentries.IndexEntriesCollector object at 0x7f30282c1fd0>> [id=33]
+[app] connecting event 'env-purge-doc': <bound method IndexEntriesCollector.clear_doc of <sphinx.environment.collectors.indexentries.IndexEntriesCollector object at 0x7f30282c1fd0>> [id=34]
+[app] connecting event 'env-get-updated': <bound method EnvironmentCollector.get_updated_docs of <sphinx.environment.collectors.indexentries.IndexEntriesCollector object at 0x7f30282c1fd0>> [id=35]
+[app] connecting event 'env-get-outdated': <bound method EnvironmentCollector.get_outdated_docs of <sphinx.environment.collectors.indexentries.IndexEntriesCollector object at 0x7f30282c1fd0>> [id=36]
 [app] setting up extension: 'alabaster'
-[app] connecting event 'html-page-context': <function update_context at 0x7f26b7020d90> [id=37]
+[app] connecting event 'html-page-context': <function update_context at 0x7f30282c7d90> [id=37]
 [app] setting up extension: 'sphinx.ext.autodoc'
 [app] adding autodocumenter: <class 'sphinx.ext.autodoc.ModuleDocumenter'>
 [app] adding directive: ('automodule', <class 'sphinx.ext.autodoc.AutoDirective'>, None, None, {})
@@ -273,21 +273,21 @@ making output directory...
 [app] adding config value: ('intersphinx_mapping', {}, True)
 [app] adding config value: ('intersphinx_cache_limit', 5, False)
 [app] adding config value: ('intersphinx_timeout', None, False)
-[app] connecting event 'missing-reference': <function missing_reference at 0x7f26b6f93048> [id=38]
-[app] connecting event 'builder-inited': <function load_mappings at 0x7f26b6f8cf28> [id=39]
+[app] connecting event 'missing-reference': <function missing_reference at 0x7f302823b048> [id=38]
+[app] connecting event 'builder-inited': <function load_mappings at 0x7f3028235f28> [id=39]
 [app] setting up extension: 'sphinx.ext.todo'
 [app] adding event: 'todo-defined'
 [app] adding config value: ('todo_include_todos', False, 'html')
 [app] adding config value: ('todo_link_only', False, 'html')
 [app] adding config value: ('todo_emit_warnings', False, 'html')
 [app] adding node: (<class 'sphinx.ext.todo.todolist'>, {})
-[app] adding node: (<class 'sphinx.ext.todo.todo_node'>, {'html': (<function visit_todo_node at 0x7f26b6f93488>, <function depart_todo_node at 0x7f26b6f93510>), 'text': (<function visit_todo_node at 0x7f26b6f93488>, <function depart_todo_node at 0x7f26b6f93510>), 'texinfo': (<function visit_todo_node at 0x7f26b6f93488>, <function depart_todo_node at 0x7f26b6f93510>), 'latex': (<function latex_visit_todo_node at 0x7f26b6f93598>, <function latex_depart_todo_node at 0x7f26b6f93620>), 'man': (<function visit_todo_node at 0x7f26b6f93488>, <function depart_todo_node at 0x7f26b6f93510>)})
+[app] adding node: (<class 'sphinx.ext.todo.todo_node'>, {'html': (<function visit_todo_node at 0x7f302823b488>, <function depart_todo_node at 0x7f302823b510>), 'latex': (<function latex_visit_todo_node at 0x7f302823b598>, <function latex_depart_todo_node at 0x7f302823b620>), 'man': (<function visit_todo_node at 0x7f302823b488>, <function depart_todo_node at 0x7f302823b510>), 'text': (<function visit_todo_node at 0x7f302823b488>, <function depart_todo_node at 0x7f302823b510>), 'texinfo': (<function visit_todo_node at 0x7f302823b488>, <function depart_todo_node at 0x7f302823b510>)})
 [app] adding directive: ('todo', <class 'sphinx.ext.todo.Todo'>, None, None, {})
 [app] adding directive: ('todolist', <class 'sphinx.ext.todo.TodoList'>, None, None, {})
-[app] connecting event 'doctree-read': <function process_todos at 0x7f26b70dd488> [id=40]
-[app] connecting event 'doctree-resolved': <function process_todo_nodes at 0x7f26b6f93268> [id=41]
-[app] connecting event 'env-purge-doc': <function purge_todos at 0x7f26b6f93378> [id=42]
-[app] connecting event 'env-merge-info': <function merge_info at 0x7f26b6f93400> [id=43]
+[app] connecting event 'doctree-read': <function process_todos at 0x7f3028381488> [id=40]
+[app] connecting event 'doctree-resolved': <function process_todo_nodes at 0x7f302823b268> [id=41]
+[app] connecting event 'env-purge-doc': <function purge_todos at 0x7f302823b378> [id=42]
+[app] connecting event 'env-merge-info': <function merge_info at 0x7f302823b400> [id=43]
 [app] setting up extension: 'sphinx.ext.coverage'
 [app] adding builder: <class 'sphinx.ext.coverage.CoverageBuilder'>
 [app] adding config value: ('coverage_ignore_modules', [], False)
@@ -299,35 +299,35 @@ making output directory...
 [app] adding config value: ('coverage_write_headline', True, False)
 [app] adding config value: ('coverage_skip_undoc_in_source', False, False)
 [app] setting up extension: 'sphinx.ext.napoleon'
-[app] connecting event 'autodoc-process-docstring': <function _process_docstring at 0x7f26b6f379d8> [id=44]
-[app] connecting event 'autodoc-skip-member': <function _skip_member at 0x7f26b6f37a60> [id=45]
+[app] connecting event 'autodoc-process-docstring': <function _process_docstring at 0x7f30281e09d8> [id=44]
+[app] connecting event 'autodoc-skip-member': <function _skip_member at 0x7f30281e0a60> [id=45]
 [app] adding config value: ('napoleon_use_admonition_for_notes', False, 'env')
-[app] adding config value: ('napoleon_use_admonition_for_examples', False, 'env')
-[app] adding config value: ('napoleon_include_special_with_doc', False, 'env')
-[app] adding config value: ('napoleon_include_private_with_doc', False, 'env')
-[app] adding config value: ('napoleon_use_ivar', False, 'env')
-[app] adding config value: ('napoleon_numpy_docstring', True, 'env')
 [app] adding config value: ('napoleon_use_rtype', True, 'env')
-[app] adding config value: ('napoleon_use_admonition_for_references', False, 'env')
-[app] adding config value: ('napoleon_use_param', True, 'env')
+[app] adding config value: ('napoleon_include_special_with_doc', False, 'env')
 [app] adding config value: ('napoleon_google_docstring', True, 'env')
+[app] adding config value: ('napoleon_use_param', True, 'env')
+[app] adding config value: ('napoleon_use_admonition_for_references', False, 'env')
+[app] adding config value: ('napoleon_use_ivar', False, 'env')
 [app] adding config value: ('napoleon_use_keyword', True, 'env')
 [app] adding config value: ('napoleon_include_init_with_doc', False, 'env')
+[app] adding config value: ('napoleon_numpy_docstring', True, 'env')
+[app] adding config value: ('napoleon_include_private_with_doc', False, 'env')
+[app] adding config value: ('napoleon_use_admonition_for_examples', False, 'env')
 loading pickled environment... not yet created
 [app] emitting event: 'builder-inited'()
-loading intersphinx inventory from http://docs.python-requests.org/en/latest/objects.inv...
-Starting new HTTP connection (1): docs.python-requests.org
-http://docs.python-requests.org:80 "GET /en/latest/objects.inv HTTP/1.1" 200 2096
 loading intersphinx inventory from https://docs.python.org/3/objects.inv...
 Starting new HTTPS connection (1): docs.python.org
 https://docs.python.org:443 "GET /3/objects.inv HTTP/1.1" 200 87922
+loading intersphinx inventory from http://docs.python-requests.org/en/latest/objects.inv...
+Starting new HTTP connection (1): docs.python-requests.org
+http://docs.python-requests.org:80 "GET /en/latest/objects.inv HTTP/1.1" 200 2096
 building [mo]: targets for 0 po files that are out of date
 building [html]: targets for 3 source files that are out of date
-updating environment: [app] emitting event: 'env-get-outdated'(<sphinx.environment.BuildEnvironment object at 0x7f26b6f91b70>, {'api', 'index', 'prose'}, set(), s
+updating environment: [app] emitting event: 'env-get-outdated'(<sphinx.environment.BuildEnvironment object at 0x7f302823ab38>, {'index', 'prose', 'api'}, set(), s
 3 added, 0 changed, 0 removed
-[app] emitting event: 'env-before-read-docs'(<sphinx.environment.BuildEnvironment object at 0x7f26b6f91b70>, ['api', 'index', 'prose'])
+[app] emitting event: 'env-before-read-docs'(<sphinx.environment.BuildEnvironment object at 0x7f302823ab38>, ['api', 'index', 'prose'])
 reading sources... [ 33%] api
-[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x7f26b6f91b70>, 'api')
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x7f302823ab38>, 'api')
 [app] emitting event: 'source-read'('api', ['API Reference\n#############\n\n\nSomeClass\n=========\n\n.. autoclass:: mypkg.models.Some
 [autodoc] /home/cdunklau/Development/sphinxattrissue/docs/api.rst:8: input:
 .. autoclass:: mypkg.models.SomeClass
@@ -339,6 +339,14 @@ reading sources... [ 33%] api
 [autodoc] getattr(_, 'SomeClass')
 [autodoc] => <class 'mypkg.models.SomeClass'>
 [app] emitting event: 'autodoc-process-docstring'('class', 'mypkg.models.SomeClass', <class 'mypkg.models.SomeClass'>, {'members': <object object at 
+[autodoc] from mypkg.models import SomeClass.some_method
+[autodoc] import mypkg.models
+[autodoc] => <module 'mypkg.models' from '/home/cdunklau/Development/sphinxattrissue/mypkg/models.py'>
+[autodoc] getattr(_, 'SomeClass')
+[autodoc] => <class 'mypkg.models.SomeClass'>
+[autodoc] getattr(_, 'some_method')
+[autodoc] => <function SomeClass.some_method at 0x7f302742f2f0>
+[app] emitting event: 'autodoc-process-docstring'('method', 'mypkg.models.SomeClass.some_method', <function SomeClass.some_method at 0x7f302742f2f0>,
 [autodoc] output:
 
 .. py:class:: SomeClass(config)
@@ -366,22 +374,28 @@ reading sources... [ 33%] api
    
       *str* -- The hostname or IP address
    
+   
+   .. py:method:: SomeClass.some_method()
+      :module: mypkg.models
+   
+      This shows that method refs work
+      
 [app] emitting event: 'doctree-read'(<document: <section "api reference"...>>,)
 reading sources... [ 66%] index
-[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x7f26b6f91b70>, 'index')
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x7f302823ab38>, 'index')
 [app] emitting event: 'source-read'('index', ["Welcome to MyPkg's Documentation!\n#################################\n\nDocumentation Co
 [app] emitting event: 'doctree-read'(<document: <section "welcome to mypkg's documentation!"...>>,)
 reading sources... [100%] prose
-[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x7f26b6f91b70>, 'prose')
+[app] emitting event: 'env-purge-doc'(<sphinx.environment.BuildEnvironment object at 0x7f302823ab38>, 'prose')
 [app] emitting event: 'source-read'('prose', ["Using SomeClass objects\n#######################\n\nSomeClass Attributes\n==============
 [app] emitting event: 'doctree-read'(<document: <section "using someclass objects"...>>,)
 [app] emitting event: 'todo-defined'(<todo_node: <title...><paragraph...>>,)
 
-[app] emitting event: 'env-updated'(<sphinx.environment.BuildEnvironment object at 0x7f26b6f91b70>,)
-looking for now-outdated files... [app] emitting event: 'env-get-updated'(<sphinx.environment.BuildEnvironment object at 0x7f26b6f91b70>,)
+[app] emitting event: 'env-updated'(<sphinx.environment.BuildEnvironment object at 0x7f302823ab38>,)
+looking for now-outdated files... [app] emitting event: 'env-get-updated'(<sphinx.environment.BuildEnvironment object at 0x7f302823ab38>,)
 none found
 pickling environment... done
-checking consistency... [app] emitting event: 'env-check-consistency'(<sphinx.environment.BuildEnvironment object at 0x7f26b6f91b70>,)
+checking consistency... [app] emitting event: 'env-check-consistency'(<sphinx.environment.BuildEnvironment object at 0x7f302823ab38>,)
 done
 docnames to write: api, index, prose
 preparing documents... done
@@ -392,11 +406,11 @@ writing output... [ 66%] index
 writing output... [100%] prose
 [app] emitting event: 'doctree-resolved'(<document: <section "using someclass objects"...>>, 'prose')
 
-/home/cdunklau/Development/sphinxattrissue/docs/prose.rst:12: WARNING: py:attr reference target not found: mypkg.models.SomeClass.id
-/home/cdunklau/Development/sphinxattrissue/docs/prose.rst:13: WARNING: py:attr reference target not found: mypkg.models.SomeClass.workflow_state
-/home/cdunklau/Development/sphinxattrissue/docs/prose.rst:14: WARNING: py:attr reference target not found: mypkg.models.SomeClass.age
-/home/cdunklau/Development/sphinxattrissue/docs/prose.rst:16: WARNING: py:attr reference target not found: mypkg.models.SomeClass.name
-/home/cdunklau/Development/sphinxattrissue/docs/prose.rst:17: WARNING: py:attr reference target not found: mypkg.models.SomeClass.host
+/home/cdunklau/Development/sphinxattrissue/docs/prose.rst:16: WARNING: py:attr reference target not found: mypkg.models.SomeClass.id
+/home/cdunklau/Development/sphinxattrissue/docs/prose.rst:17: WARNING: py:attr reference target not found: mypkg.models.SomeClass.workflow_state
+/home/cdunklau/Development/sphinxattrissue/docs/prose.rst:18: WARNING: py:attr reference target not found: mypkg.models.SomeClass.age
+/home/cdunklau/Development/sphinxattrissue/docs/prose.rst:20: WARNING: py:attr reference target not found: mypkg.models.SomeClass.name
+/home/cdunklau/Development/sphinxattrissue/docs/prose.rst:21: WARNING: py:attr reference target not found: mypkg.models.SomeClass.host
 generating indices... genindex
 [app] emitting event: 'html-collect-pages'()
 writing additional pages... search

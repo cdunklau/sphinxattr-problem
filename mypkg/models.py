@@ -23,3 +23,9 @@ class SomeClass:
         self.age = config.age
         self.name = config.name
         self.host = config.host
+
+    def some_method(self):
+        """
+        This shows that method refs work
+        """
+        pass
