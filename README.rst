@@ -3,6 +3,11 @@ Issue:
 Something about this setup prevents the attr links in docs/prose.rst from being
 generated properly.
 
+The reference targets for the :attr:`~mypkg.models.SomeClass.id` things in
+docs/prose.rst aren't getting resolved, but based on the full sphinx output, i
+can see that napoleon appears to be generating the right markup from my
+docstring...  what gives?
+
 The below output shows the sphinx warnings about missing reference targets, and
 the full sphinx output is in full-sphinx-output.txt at the root of the repo.
 
