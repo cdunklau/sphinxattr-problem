@@ -3,6 +3,9 @@ Issue:
 Something about this setup prevents the attr links in docs/prose.rst from being
 generated properly.
 
+The below output shows the sphinx warnings about missing reference targets, and
+the full sphinx output is in full-sphinx-output.txt at the root of the repo.
+
 Setup and result::
 
     cdunklau@krusty:~/Development/sphinxattrissue$ python3 -V
