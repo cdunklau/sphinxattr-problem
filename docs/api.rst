@@ -1,6 +1,8 @@
 API Reference
 #############
 
+.. module:: mypkg.models
+
 
 SomeClass
 =========

@@ -1,3 +1,11 @@
+Update:
+
+I found out that adding ``.. module:: mypkg.models`` before the autoclass
+directive in docs/api.rst makes the links resolve. Now the question becomes:
+why do I have to do this for attributes, but not the class or the method?
+
+Original issue follows
+
 Issue:
 
 Something about this setup prevents the attr links in docs/prose.rst from being
